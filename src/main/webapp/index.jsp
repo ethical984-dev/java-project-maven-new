@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Hotstar - Watch fav TV Shows </title>
+    <title>Disney+ Hotstar - Watch your fav TV Shows </title>
 
     <!-- ------------------ Stylish Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">

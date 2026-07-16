@@ -260,7 +260,7 @@
                 <img src="./assets/img/card 9.webp" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Mahadev</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lorem ipsum dollar sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>

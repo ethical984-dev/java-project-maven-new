@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">DNA</a></li>
+            <li class="nav-items"><a href="#">MAD</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
@@ -107,7 +107,7 @@
                 <img src="./assets/img/poster 2.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Mulan</h2>
-                    <h6 class="des">Haha Mulan dolor sit consectetur elit.</h6>
+                    <h6 class="des">Himavathi Mulan dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
